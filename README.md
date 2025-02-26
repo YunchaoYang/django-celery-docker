@@ -27,3 +27,6 @@ Check the status:
 ```sh
 $ curl http://localhost:1337/tasks/<TASK_ID>/
 ```
+
+
+![sample output](images/Screenshot-feeback.png)
